@@ -180,7 +180,7 @@ body {
 }
 
 body#bg-img {
-  background: url(/dist/image/background.png);
+  background: url(/dist/image/portrait.jpg);
   background-attachment: fixed;
   background-size: cover;
 }
